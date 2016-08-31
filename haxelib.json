@@ -1,0 +1,11 @@
+{
+	"name": "mintFlx",
+	"url" : "",
+	"license": "",
+	"tags": [],
+	"description": "A private collection of flixel utils",
+	"version": "0.0.1",
+	"releasenote": "",
+	"contributors": [""],
+	"dependencies": { "openfl": "", "flixel": "", "flixel-addons": "", "flixel-ui": "" }
+}
