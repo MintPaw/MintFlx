@@ -8,11 +8,11 @@ class FlxMintDebugger {
 
 	public static function showExtra():Void {
 		FlxG.game.debugger.stats.visible = true;
-		FlxG.game.debugger.interaction.visible = true;
+		// FlxG.game.debugger.interaction.visible = true;
 	}
 	public static function hideExtra():Void {
 		FlxG.game.debugger.stats.visible = false;
-		FlxG.game.debugger.interaction.visible = false;
+		// FlxG.game.debugger.interaction.visible = false;
 	}
 	
 	public static function refresh():Void {
