@@ -1,8 +1,5 @@
 package mintFlx;
 
-import flixel.*;
-import flixel.graphics.frames.*;
-
 class MintFlx {
 	public function new() { }
 
